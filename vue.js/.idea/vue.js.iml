@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/Pintech-Systems/app" isTestSource="false" packagePrefix="App\" />
+      <excludeFolder url="file://$MODULE_DIR$/Pintech-Systems/vendor/classpreloader/classpreloader" />
+      <excludeFolder url="file://$MODULE_DIR$/Pintech-Systems/vendor/composer" />
+      <excludeFolder url="file://$MODULE_DIR$/Pintech-Systems/vendor/dnoegel/php-xdg-base-dir" />
+      <excludeFolder url="file://$MODULE_DIR$/Pintech-Systems/vendor/doctrine/inflector" />
+      <excludeFolder url="file://$MODULE_DIR$/Pintech-Systems/vendor/doctrine/instantiator" />
+      <excludeFolder url="file://$MODULE_DIR$/Pintech-Systems/vendor/fzaninotto/faker" />
+      <excludeFolder url="file://$MODULE_DIR$/Pintech-Systems/vendor/hamcrest/hamcrest-php" />
+      <excludeFolder url="file://$MODULE_DIR$/Pintech-Systems/vendor/jakub-onderka/php-console-color" />
+      <excludeFolder url="file://$MODULE_DIR$/Pintech-Systems/vendor/jakub-onderka/php-console-highlighter" />
+      <excludeFolder url="file://$MODULE_DIR$/Pintech-Systems/vendor/jeremeamia/SuperClosure" />
+      <excludeFolder url="file://$MODULE_DIR$/Pintech-Systems/vendor/laravel/framework" />
+      <excludeFolder url="file://$MODULE_DIR$/Pintech-Systems/vendor/league/flysystem" />
+      <excludeFolder url="file://$MODULE_DIR$/Pintech-Systems/vendor/mockery/mockery" />
+      <excludeFolder url="file://$MODULE_DIR$/Pintech-Systems/vendor/monolog/monolog" />
+      <excludeFolder url="file://$MODULE_DIR$/Pintech-Systems/vendor/mtdowling/cron-expression" />
+      <excludeFolder url="file://$MODULE_DIR$/Pintech-Systems/vendor/myclabs/deep-copy" />
+      <excludeFolder url="file://$MODULE_DIR$/Pintech-Systems/vendor/nesbot/carbon" />
+      <excludeFolder url="file://$MODULE_DIR$/Pintech-Systems/vendor/nikic/php-parser" />
+      <excludeFolder url="file://$MODULE_DIR$/Pintech-Systems/vendor/paragonie/random_compat" />
+      <excludeFolder url="file://$MODULE_DIR$/Pintech-Systems/vendor/phpdocumentor/reflection-common" />
+      <excludeFolder url="file://$MODULE_DIR$/Pintech-Systems/vendor/phpdocumentor/reflection-docblock" />
+      <excludeFolder url="file://$MODULE_DIR$/Pintech-Systems/vendor/phpdocumentor/type-resolver" />
+      <excludeFolder url="file://$MODULE_DIR$/Pintech-Systems/vendor/phpspec/prophecy" />
+      <excludeFolder url="file://$MODULE_DIR$/Pintech-Systems/vendor/phpunit/php-code-coverage" />
+      <excludeFolder url="file://$MODULE_DIR$/Pintech-Systems/vendor/phpunit/php-file-iterator" />
+      <excludeFolder url="file://$MODULE_DIR$/Pintech-Systems/vendor/phpunit/php-text-template" />
+      <excludeFolder url="file://$MODULE_DIR$/Pintech-Systems/vendor/phpunit/php-timer" />
+      <excludeFolder url="file://$MODULE_DIR$/Pintech-Systems/vendor/phpunit/php-token-stream" />
+      <excludeFolder url="file://$MODULE_DIR$/Pintech-Systems/vendor/phpunit/phpunit" />
+      <excludeFolder url="file://$MODULE_DIR$/Pintech-Systems/vendor/phpunit/phpunit-mock-objects" />
+      <excludeFolder url="file://$MODULE_DIR$/Pintech-Systems/vendor/psr/log" />
+      <excludeFolder url="file://$MODULE_DIR$/Pintech-Systems/vendor/psy/psysh" />
+      <excludeFolder url="file://$MODULE_DIR$/Pintech-Systems/vendor/ramsey/uuid" />
+      <excludeFolder url="file://$MODULE_DIR$/Pintech-Systems/vendor/sebastian/code-unit-reverse-lookup" />
+      <excludeFolder url="file://$MODULE_DIR$/Pintech-Systems/vendor/sebastian/comparator" />
+      <excludeFolder url="file://$MODULE_DIR$/Pintech-Systems/vendor/sebastian/diff" />
+      <excludeFolder url="file://$MODULE_DIR$/Pintech-Systems/vendor/sebastian/environment" />
+      <excludeFolder url="file://$MODULE_DIR$/Pintech-Systems/vendor/sebastian/exporter" />
+      <excludeFolder url="file://$MODULE_DIR$/Pintech-Systems/vendor/sebastian/global-state" />
+      <excludeFolder url="file://$MODULE_DIR$/Pintech-Systems/vendor/sebastian/object-enumerator" />
+      <excludeFolder url="file://$MODULE_DIR$/Pintech-Systems/vendor/sebastian/recursion-context" />
+      <excludeFolder url="file://$MODULE_DIR$/Pintech-Systems/vendor/sebastian/resource-operations" />
+      <excludeFolder url="file://$MODULE_DIR$/Pintech-Systems/vendor/sebastian/version" />
+      <excludeFolder url="file://$MODULE_DIR$/Pintech-Systems/vendor/swiftmailer/swiftmailer" />
+      <excludeFolder url="file://$MODULE_DIR$/Pintech-Systems/vendor/symfony/console" />
+      <excludeFolder url="file://$MODULE_DIR$/Pintech-Systems/vendor/symfony/css-selector" />
+      <excludeFolder url="file://$MODULE_DIR$/Pintech-Systems/vendor/symfony/debug" />
+      <excludeFolder url="file://$MODULE_DIR$/Pintech-Systems/vendor/symfony/dom-crawler" />
+      <excludeFolder url="file://$MODULE_DIR$/Pintech-Systems/vendor/symfony/event-dispatcher" />
+      <excludeFolder url="file://$MODULE_DIR$/Pintech-Systems/vendor/symfony/finder" />
+      <excludeFolder url="file://$MODULE_DIR$/Pintech-Systems/vendor/symfony/http-foundation" />
+      <excludeFolder url="file://$MODULE_DIR$/Pintech-Systems/vendor/symfony/http-kernel" />
+      <excludeFolder url="file://$MODULE_DIR$/Pintech-Systems/vendor/symfony/polyfill-mbstring" />
+      <excludeFolder url="file://$MODULE_DIR$/Pintech-Systems/vendor/symfony/polyfill-php56" />
+      <excludeFolder url="file://$MODULE_DIR$/Pintech-Systems/vendor/symfony/polyfill-util" />
+      <excludeFolder url="file://$MODULE_DIR$/Pintech-Systems/vendor/symfony/process" />
+      <excludeFolder url="file://$MODULE_DIR$/Pintech-Systems/vendor/symfony/routing" />
+      <excludeFolder url="file://$MODULE_DIR$/Pintech-Systems/vendor/symfony/translation" />
+      <excludeFolder url="file://$MODULE_DIR$/Pintech-Systems/vendor/symfony/var-dumper" />
+      <excludeFolder url="file://$MODULE_DIR$/Pintech-Systems/vendor/symfony/yaml" />
+      <excludeFolder url="file://$MODULE_DIR$/Pintech-Systems/vendor/vlucas/phpdotenv" />
+      <excludeFolder url="file://$MODULE_DIR$/Pintech-Systems/vendor/webmozart/assert" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="laravel-vue" />
+    <orderEntry type="module" module-name="Pintech-Systems" />
+    <orderEntry type="module" module-name="Pintech-Systems" />
+  </component>
+</module>

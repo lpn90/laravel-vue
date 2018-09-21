@@ -1,0 +1,26 @@
+//Material Icons
+@import url(https://fonts.googleapis.com/icon?family=Material+Icons);
+
+@import "~materialize-css/sass/components/color";
+
+@import "variables";
+
+@import "~materialize-css/sass/materialize";
+
+/*Ajuste para o Checkbox e Radiobutton funcionar*/
+.fixed {
+  [type="checkbox"], [type="radio"]{
+    + label {
+      pointer-events: auto;
+    }
+  }
+}
+/* Ajuste do Menu Lateral para aparecer */
+#sidenav-overlay {
+  z-index: 996 !important;
+}
+
+.modal {
+  @extend .modal;
+  width: 45%;
+}
